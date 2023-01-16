@@ -16,7 +16,7 @@ h1{
     margin-bottom: 0;
 }
 
-h4{
+#head-subtitle{
     margin-bottom: 0;
 }
 
@@ -75,4 +75,26 @@ th{
 /* end table */
 
 
+.end-page > h4{
+    color: rgb(87, 81, 81);
+    margin-bottom: 10px;
+}
 
+.end-img{
+    position: relative;
+}
+
+.img-text{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+
+}
+
+#pc-img{
+
+    margin-bottom: 10px;
+}
