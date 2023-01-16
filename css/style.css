@@ -31,7 +31,9 @@ h4{
     font-size: 13px;
 }
 
-
+.highlight{
+    background-color: yellow;
+}
 
 #author{
     color: #1ca7e4;
