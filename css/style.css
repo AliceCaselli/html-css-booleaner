@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+header{
+    height: 170px;
+    background-color: #4ea0ff;
+    background-image: url(/img/pattern.png);
+    background-position: top;
+    position: relative;
+}
+
+#booleaners {
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
